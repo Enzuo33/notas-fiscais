@@ -1,0 +1,7 @@
+{
+  "spreadsheet_id": "COLE_AQUI_O_ID_DA_SUA_PLANILHA",
+  "sheet_name": "Itens",
+  "credentials_path": "credentials.json",
+  "tesseract_cmd": "",
+  "poppler_path": ""
+}
